@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vGDI4tmGVRcUtfrcEgrIBItsVaOEkbVi0C6Fp0OHmYgpwZslQkn1odpgvBP3q/tlQtFN4U9f7UiPdLhQ0z9brA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\unnamed\\source\\repos\\Sudoku_Chekunkov_Alexandr\\Sudoku_Chekunkov_Alexandr\\Sudoku_Chekunkov_Alexandr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\unnamed\\.nuget\\packages\\documentformat.openxml\\2.12.3\\documentformat.openxml.2.12.3.nupkg.sha512",
+    "C:\\Users\\unnamed\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
