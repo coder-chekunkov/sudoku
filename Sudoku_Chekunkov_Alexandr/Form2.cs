@@ -12,7 +12,7 @@ namespace Sudoku_Chekunkov_Alexandr
   {
     //Объявление нужных переменных для работы программы:
     const int size = 3; int kol_hide = 0; int Ni, Nj;
-    const int sizeField = 50; bool isFastCheck = false;
+    const int sizeField = 75; bool isFastCheck = false;
     int minute = 0, second = 0; int boof_level; int kol_mistake_fcp = 0;
       //Двумерный массив int для создания виртуального полей:
       int[,] field = new int[size * size, size * size];
@@ -51,21 +51,21 @@ namespace Sudoku_Chekunkov_Alexandr
         //Легкий уровень сложности:
         case 1:
           pictureBox_level.BackgroundImage = Image.FromFile(@"pic/hand.png");
-          pictureBox_level.Location = new Point(485, 0);
+          pictureBox_level.Location = new Point(714, 0);
           pictureBox_level.Size = new Size(25, 50);
           kol_hide = 30;
           break;
         //Нормальный уровень сложности:
         case 2:
           pictureBox_level.BackgroundImage = Image.FromFile(@"pic/two_hand.png");
-          pictureBox_level.Location = new Point(475, 0);
+          pictureBox_level.Location = new Point(714, 0);
           pictureBox_level.Size = new Size(50, 50);
           kol_hide = 40;
           break;
         //Трудный уровень сложности:
         case 3:
           pictureBox_level.BackgroundImage = Image.FromFile(@"pic/three_hand.png");
-          pictureBox_level.Location = new Point(460, 0);
+          pictureBox_level.Location = new Point(714, 0);
           pictureBox_level.Size = new Size(75, 50);
           kol_hide = 50;
           break;
@@ -246,7 +246,7 @@ namespace Sudoku_Chekunkov_Alexandr
           button_field.ForeColor = Color.FromArgb(0, 0, 0);
           button_field.BackColor = Color.FromArgb(250, 250, 250);
           button_field.Font = new Font("", 18F, FontStyle.Bold);
-          button_field.Location = new Point(j * sizeField + 175, i * sizeField + 65);
+          button_field.Location = new Point(j * sizeField + 250, i * sizeField + 110);
           button_field.FlatAppearance.BorderColor = Color.FromArgb(51, 51, 51);
           button_field.FlatAppearance.BorderSize = 1;
           this.Controls.Add(button_field);

@@ -82,19 +82,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\unnamed\\.nuget\\packages\\": {}
+    "C:\\Users\\coder\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\unnamed\\source\\repos\\Sudoku_Chekunkov_Alexandr\\Sudoku_Chekunkov_Alexandr\\Sudoku_Chekunkov_Alexandr.csproj",
+      "projectUniqueName": "C:\\Users\\coder\\source\\repos\\Sudoku\\Sudoku_Chekunkov_Alexandr\\Sudoku_Chekunkov_Alexandr.csproj",
       "projectName": "Sudoku_Chekunkov_Alexandr",
-      "projectPath": "C:\\Users\\unnamed\\source\\repos\\Sudoku_Chekunkov_Alexandr\\Sudoku_Chekunkov_Alexandr\\Sudoku_Chekunkov_Alexandr.csproj",
-      "packagesPath": "C:\\Users\\unnamed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\unnamed\\source\\repos\\Sudoku_Chekunkov_Alexandr\\Sudoku_Chekunkov_Alexandr\\obj\\",
+      "projectPath": "C:\\Users\\coder\\source\\repos\\Sudoku\\Sudoku_Chekunkov_Alexandr\\Sudoku_Chekunkov_Alexandr.csproj",
+      "packagesPath": "C:\\Users\\coder\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\coder\\source\\repos\\Sudoku\\Sudoku_Chekunkov_Alexandr\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\unnamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\coder\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -143,7 +143,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
