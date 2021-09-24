@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "LYKmMhN3nN4HnNb9Y/F9y/IE4eGuvAsxskCGa72bMekkoqK8UC3uKgKpOs04k9Ng+4n2+J2u+dqroQy8TEHUxA==",
   "success": true,
   "projectFilePath": "C:\\Users\\coder\\source\\repos\\Sudoku(1)\\Sudoku_Chekunkov_Alexandr\\Sudoku_Chekunkov_Alexandr.csproj",
+=======
+  "dgSpecHash": "5VtOpu3rVnFhON/B59MM+cxABw1cRm4/3S0sGWZnvDq+T5vB76lkDmd6rzr3nL8FCwVc0der26zboWQ1sPfUBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\coder\\source\\repos\\Sudoku\\Sudoku_Chekunkov_Alexandr\\Sudoku_Chekunkov_Alexandr.csproj",
+>>>>>>> 10f55959704dac02941b040872f0ef6894d36bd1
   "expectedPackageFiles": [
     "C:\\Users\\coder\\.nuget\\packages\\documentformat.openxml\\2.12.3\\documentformat.openxml.2.12.3.nupkg.sha512",
     "C:\\Users\\coder\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"

@@ -87,11 +87,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\coder\\source\\repos\\Sudoku(1)\\Sudoku_Chekunkov_Alexandr\\Sudoku_Chekunkov_Alexandr.csproj",
       "projectName": "Sudoku_Chekunkov_Alexandr",
       "projectPath": "C:\\Users\\coder\\source\\repos\\Sudoku(1)\\Sudoku_Chekunkov_Alexandr\\Sudoku_Chekunkov_Alexandr.csproj",
       "packagesPath": "C:\\Users\\coder\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\coder\\source\\repos\\Sudoku(1)\\Sudoku_Chekunkov_Alexandr\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\coder\\source\\repos\\Sudoku\\Sudoku_Chekunkov_Alexandr\\Sudoku_Chekunkov_Alexandr.csproj",
+      "projectName": "Sudoku_Chekunkov_Alexandr",
+      "projectPath": "C:\\Users\\coder\\source\\repos\\Sudoku\\Sudoku_Chekunkov_Alexandr\\Sudoku_Chekunkov_Alexandr.csproj",
+      "packagesPath": "C:\\Users\\coder\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\coder\\source\\repos\\Sudoku\\Sudoku_Chekunkov_Alexandr\\obj\\",
+>>>>>>> 10f55959704dac02941b040872f0ef6894d36bd1
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\coder\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -72,7 +72,7 @@ namespace Sudoku_Chekunkov_Alexandr
             lb.Text = "Дата";
             break;
         }
-        lb.Location = new Point(60 + 125 * i, 80);
+        lb.Location = new Point(210 + 125 * i, 130);
         lb.AutoSize = false;
         lb.Size = new System.Drawing.Size(125, 25);
         lb.BackColor = Color.Transparent;
@@ -91,7 +91,7 @@ namespace Sudoku_Chekunkov_Alexandr
           lb.Text = i.ToString();
           lb.AutoSize = false;
           lb.Size = new System.Drawing.Size(125, 50);
-          lb.Location = new Point(185, 50 + 50 * i);
+          lb.Location = new Point(335, 100 + 50 * i);
           lb.TextAlign = ContentAlignment.MiddleCenter;
           lb.BorderStyle = BorderStyle.FixedSingle;
           lb.Font = new Font("", 10F, FontStyle.Regular);
@@ -122,7 +122,7 @@ namespace Sudoku_Chekunkov_Alexandr
           }
           lb.AutoSize = false;
           lb.Size = new System.Drawing.Size(125, 50);
-          lb.Location = new Point(310, 100 + 50 * i);
+          lb.Location = new Point(460, 150 + 50 * i);
           lb.TextAlign = ContentAlignment.MiddleCenter;
           lb.BorderStyle = BorderStyle.FixedSingle;
           lb.Font = new Font("", 10F, FontStyle.Regular);
@@ -157,7 +157,7 @@ namespace Sudoku_Chekunkov_Alexandr
           lb.Text = time;
           lb.AutoSize = false;
           lb.Size = new System.Drawing.Size(125, 50);
-          lb.Location = new Point(435, 100 + 50 * i);
+          lb.Location = new Point(585, 150 + 50 * i);
           lb.TextAlign = ContentAlignment.MiddleCenter;
           lb.BorderStyle = BorderStyle.FixedSingle;
           lb.Font = new Font("", 10F, FontStyle.Regular);
@@ -174,7 +174,7 @@ namespace Sudoku_Chekunkov_Alexandr
           lb.Text = lines_mistake[lines_mistake.Length - 1 - i];
           lb.AutoSize = false;
           lb.Size = new System.Drawing.Size(125, 50);
-          lb.Location = new Point(560, 100 + 50 * i);
+          lb.Location = new Point(710, 150 + 50 * i);
           lb.TextAlign = ContentAlignment.MiddleCenter;
           lb.BorderStyle = BorderStyle.FixedSingle;
           lb.Font = new Font("", 10F, FontStyle.Regular);
@@ -191,7 +191,7 @@ namespace Sudoku_Chekunkov_Alexandr
           lb.Text = lines_date[lines_date.Length - 1 - i];
           lb.AutoSize = false;
           lb.Size = new System.Drawing.Size(125, 50);
-          lb.Location = new Point(685, 100 + 50 * i);
+          lb.Location = new Point(835, 150 + 50 * i);
           lb.TextAlign = ContentAlignment.MiddleCenter;
           lb.BorderStyle = BorderStyle.FixedSingle;
           lb.Font = new Font("", 10F, FontStyle.Regular);
